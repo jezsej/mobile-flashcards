@@ -6,7 +6,7 @@ Mobile Flashcards is a React Native app for iOS that allows users to create flas
 
 To correctly download and install this project see below;
 
-1. `$ git clone https://github.com/Olga-Naomi/mobile-flashcards.git`
+1. `$ git clone https://github.com/jezsej/mobile-flashcards.git`
 2. `$ cd mobile-flashcards.git`
 3. `$ npm install`
 
